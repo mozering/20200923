@@ -1,0 +1,10 @@
+@charset "utf-8";
+.background {background-color: black; height: 100%; position: absolute; width: 780px; left: calc(50% - 340px) }
+.box-1 {background-color: #ece9e9; width: 20%; height: 30%; position: absolute;  display: block;}
+.box-2 {background-color: #ece9e9; width: 20%; height: 38%; position: absolute;  display: block; top: 35%;}
+.box-3 {background-color: blue; width: 20%; height: 25.5%; position: absolute;  display: block; top: 74.4%;}
+.box-4 { width: 77.3%; height: calc(30% + 38% + 6.5%); background-color: red;position: absolute; left: 23%; bottom: 27%;}
+.box-5 {width: calc(77.3% - 12%); height: 25.5%; background-color: #ece9e9; position: absolute;left: 23%;top: 74.4%;}
+.box-6 { width: 9.2%; height: 11.5%; background-color: #ece9e9; position: absolute; left: 90.9%; top: 74.4%;}
+.box-7 { width: 9.2%; height: 11.5%; background-color: yellow; position: absolute; left: 90.9%; top: 88.4%;
+}
